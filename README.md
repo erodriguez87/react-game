@@ -1,6 +1,5 @@
 # DBZ React
-#### GitHub: 
-#### Heroku: 
+#### GitHub: https://erodriguez87.github.io/react-game/
 
 ## Description:
 A simple memory game built using react and radium. The user can click different characters and the score, a quote, and the card deck will update. 
