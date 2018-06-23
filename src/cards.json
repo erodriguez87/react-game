@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "alt": "Son Goku",
+    "image": "https://i.imgur.com/DsuN9zp.gif",
+    "quote": "KAAAAA-MEEEEEE-HAAAAAA-MEEEEEHHH-HAAAAAAAA"
+  },
+  {
+    "id": 2,
+    "alt": "Vegeta",
+    "image": "https://i.imgur.com/oQKcvNf.gif",
+    "quote": "Welcome to the end of your Life! "
+  },
+  {
+    "id": 3,
+    "alt": "Krillin",
+    "image": "https://i.imgur.com/EQJC3cs.jpg",
+    "quote": "Vegeta seems more agitated than bored, like he's got a bad case of hemorrhoids or something"
+  },
+  {
+    "id": 4,
+    "alt": "Yamcha",
+    "image": "https://i.imgur.com/KdglnNv.jpg",
+    "quote": "Okay, now do you remember the spell to release him? You know all the words?"
+  },
+  {
+    "id": 5,
+    "alt": "Frieza",
+    "image": "https://i.imgur.com/tqqf3vR.jpg",
+    "quote": "There are three things I refuse to tolerate. Cowardice. Bad haircuts, and military insurrection. And it is unfortunate that our friend Vegeta possesses all three of these."
+  },
+  {
+    "id": 6,
+    "alt": "Piccolo",
+    "image": "https://i.imgur.com/E12bNV0.jpg",
+    "quote": "Hey, guess what? Sometimes kid, life is cruel, and don’t you forget it."
+  },
+  {
+    "id": 7,
+    "alt": "Gohan",
+    "image": "https://i.imgur.com/5XnKw09.png",
+    "quote": "I know your kind. You think you can just walk in and take our planet. But you forgot one thing...I'm my father's son!" 
+  },
+  {
+    "id": 8,
+    "alt": "Trunks",
+    "image": "https://i.imgur.com/aC7HRWt.jpg",
+    "quote": "You should know that a weapon doesn't make a man!"
+  },
+  {
+    "id": 9,
+    "alt": "Mr. Popo",
+    "image": "https://i.imgur.com/i3Rfjo6.jpg",
+    "quote": " To be truly strong, you must know yourself and your enemy. *opens eyes* Once you know this, all will become clear.     "
+  },
+  {
+    "id": 10,
+    "alt": "Bulma",
+    "image": "https://i.imgur.com/XvUKW.gif",
+    "quote": "Of course. I'm not gonna pull a Frieza and screw it up, Yamcha!"
+  },
+  {
+    "id": 11,
+    "alt": "Gotenks",
+    "image": "https://i.imgur.com/9bOtJEw.gif",
+    "quote": "Hey, cat person! All this over a pudding? I, Gotenks, will discipline someone with such poor manners!"
+  },
+  {
+    "id": 12,
+    "alt": "Ginyu",
+    "image": "https://i.imgur.com/p0D3sD3.jpg",
+    "quote": "*makes ridiculous pose*"
+  }
+]
